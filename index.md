@@ -10,7 +10,7 @@ $ touch index.html
 <body>
 
 <h1>Hello Internet!</h1>
-<p>This is a paragraph.</p>
+<p>This is my website.</p>
 <script>alert('Random Javascript!');</script>
 </body>
 </html>
